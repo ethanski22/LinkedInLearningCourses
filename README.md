@@ -5,4 +5,4 @@ Here is a link to a repo for an API course https://github.com/ethanski22/LinkedI
 
 I started the learning path: Getting Started with AI and Machine Learning
 
-Currently on: Machine Learnin Foundations: Linear Algebra
+Currently on: Deep Learning: Getting Started
